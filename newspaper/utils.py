@@ -373,6 +373,7 @@ def print_available_languages():
         'hu': 'Hungarian',
         'id': 'Indonesian',
         'it': 'Italian',
+        'iw': 'Hebrew',
         'ja': 'Japanese',
         'ko': 'Korean',
         'lt': 'Lithuanian',
@@ -391,6 +392,7 @@ def print_available_languages():
         'th': 'Thai',
         'tr': 'Turkish',
         'uk': 'Ukrainian',
+        'uz': 'Uzbek',
         'vi': 'Vietnamese',
         'zh': 'Chinese',
     }
